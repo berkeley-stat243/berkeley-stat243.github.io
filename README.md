@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2024](fall-2024)
 1. [Fall 2023](stat243-fall-2023)
 1. [Fall 2022](stat243-fall-2022)
 1. [Fall 2021](stat243-fall-2021)
