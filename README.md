@@ -37,7 +37,7 @@ Concepts in statistical programming and statistical computation, including progr
 
 ## Logistics
 
-Three hours of lecture and two hours of laboratory per week. 
+Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.
 
 ## Prerequisites
 
